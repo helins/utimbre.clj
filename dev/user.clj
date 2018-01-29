@@ -12,7 +12,7 @@
             [criterium.core                  :as ct]
             [taoensso.timbre                 :as log]
             [dvlopt.ex                       :as ex]
-            [dvlopt.timbre                   :as D.timbre]))
+            [dvlopt.utimbre                  :as utimbre]))
 
 
 

@@ -1,5 +1,5 @@
-(defproject dvlopt/timbre
-            "0.0.0"
+(defproject dvlopt/utimbre
+            "0.0.1"
 
   :description  "Utilities for Timbre"
   :url          "https://github.com/dvlopt/timbre"

@@ -1,4 +1,4 @@
-(ns dvlopt.timbre
+(ns dvlopt.utimbre
 
   "Utilities for Timbre."
 

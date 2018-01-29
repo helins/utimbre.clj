@@ -1,10 +1,10 @@
-# dvlopt.timbre
+# µTimbre
 
-Micro-library providing useful functions for Timbre.
+Micro-library providing useful functions and specs for Timbre.
 
 ## Usage
 
-Read the [API](https://dvlopt.github.io/doc/timbre/).
+Read the [API](https://dvlopt.github.io/doc/utimbre/).
 
 It is very tiny at the moment, expected to grow.
 
