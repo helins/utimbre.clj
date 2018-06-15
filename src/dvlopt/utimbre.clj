@@ -6,8 +6,8 @@
 
   (:require [clojure.spec.alpha     :as s]
             [clojure.spec.gen.alpha :as gen]
-            [dvlopt.void            :as void]
-            [dvlopt.ex              :as ex])
+            [dvlopt.ex              :as ex]
+            [dvlopt.void            :as void])
   (:import java.util.Date))
 
 

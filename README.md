@@ -8,9 +8,9 @@ as the basis for building other tools.
 
 ## Usage
 
-Read the [API](https://dvlopt.github.io/doc/dvlopt/utimbre/index.html).
+Read the [API](https://dvlopt.github.io/doc/clojure/dvlopt/utimbre/index.html).
 
-It is very tiny at the moment, expected to grow.
+It is very tiny at the moment.
 
 ## Used by
 
